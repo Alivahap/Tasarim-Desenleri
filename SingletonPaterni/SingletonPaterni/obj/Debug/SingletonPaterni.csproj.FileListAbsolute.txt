@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\SingletonPaterni\SingletonPaterni\bin\Debug\SingletonPaterni.exe.config
+C:\Users\Ali\source\repos\SingletonPaterni\SingletonPaterni\bin\Debug\SingletonPaterni.exe
+C:\Users\Ali\source\repos\SingletonPaterni\SingletonPaterni\bin\Debug\SingletonPaterni.pdb
+C:\Users\Ali\source\repos\SingletonPaterni\SingletonPaterni\obj\Debug\SingletonPaterni.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\SingletonPaterni\SingletonPaterni\obj\Debug\SingletonPaterni.Form1.resources
+C:\Users\Ali\source\repos\SingletonPaterni\SingletonPaterni\obj\Debug\SingletonPaterni.Properties.Resources.resources
+C:\Users\Ali\source\repos\SingletonPaterni\SingletonPaterni\obj\Debug\SingletonPaterni.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\SingletonPaterni\SingletonPaterni\obj\Debug\SingletonPaterni.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\SingletonPaterni\SingletonPaterni\obj\Debug\SingletonPaterni.exe
+C:\Users\Ali\source\repos\SingletonPaterni\SingletonPaterni\obj\Debug\SingletonPaterni.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\FactoryMethodu\FactoryMethodu\bin\Debug\FactoryMethodu.exe.config
+C:\Users\Ali\source\repos\FactoryMethodu\FactoryMethodu\bin\Debug\FactoryMethodu.exe
+C:\Users\Ali\source\repos\FactoryMethodu\FactoryMethodu\bin\Debug\FactoryMethodu.pdb
+C:\Users\Ali\source\repos\FactoryMethodu\FactoryMethodu\obj\Debug\FactoryMethodu.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\FactoryMethodu\FactoryMethodu\obj\Debug\FactoryMethodu.Form1.resources
+C:\Users\Ali\source\repos\FactoryMethodu\FactoryMethodu\obj\Debug\FactoryMethodu.Properties.Resources.resources
+C:\Users\Ali\source\repos\FactoryMethodu\FactoryMethodu\obj\Debug\FactoryMethodu.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\FactoryMethodu\FactoryMethodu\obj\Debug\FactoryMethodu.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\FactoryMethodu\FactoryMethodu\obj\Debug\FactoryMethodu.exe
+C:\Users\Ali\source\repos\FactoryMethodu\FactoryMethodu\obj\Debug\FactoryMethodu.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\PrototypePatern\PrototypePatern\obj\Debug\PrototypePatern.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\PrototypePatern\PrototypePatern\obj\Debug\PrototypePatern.Form1.resources
+C:\Users\Ali\source\repos\PrototypePatern\PrototypePatern\obj\Debug\PrototypePatern.Properties.Resources.resources
+C:\Users\Ali\source\repos\PrototypePatern\PrototypePatern\obj\Debug\PrototypePatern.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\PrototypePatern\PrototypePatern\obj\Debug\PrototypePatern.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\PrototypePatern\PrototypePatern\bin\Debug\PrototypePatern.exe.config
+C:\Users\Ali\source\repos\PrototypePatern\PrototypePatern\bin\Debug\PrototypePatern.exe
+C:\Users\Ali\source\repos\PrototypePatern\PrototypePatern\bin\Debug\PrototypePatern.pdb
+C:\Users\Ali\source\repos\PrototypePatern\PrototypePatern\obj\Debug\PrototypePatern.exe
+C:\Users\Ali\source\repos\PrototypePatern\PrototypePatern\obj\Debug\PrototypePatern.pdb
