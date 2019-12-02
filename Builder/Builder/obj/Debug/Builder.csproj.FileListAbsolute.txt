@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\Builder\Builder\bin\Debug\Builder.exe.config
+C:\Users\Ali\source\repos\Builder\Builder\bin\Debug\Builder.exe
+C:\Users\Ali\source\repos\Builder\Builder\bin\Debug\Builder.pdb
+C:\Users\Ali\source\repos\Builder\Builder\obj\Debug\Builder.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\Builder\Builder\obj\Debug\Builder.Form1.resources
+C:\Users\Ali\source\repos\Builder\Builder\obj\Debug\Builder.Properties.Resources.resources
+C:\Users\Ali\source\repos\Builder\Builder\obj\Debug\Builder.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Builder\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Builder\Builder\obj\Debug\Builder.exe
+C:\Users\Ali\source\repos\Builder\Builder\obj\Debug\Builder.pdb

@@ -1,0 +1,20 @@
+C:\Users\Ali\source\repos\Kirtsiye\Kirtsiye\bin\Debug\Kirtsiye.exe.config
+C:\Users\Ali\source\repos\Kirtsiye\Kirtsiye\bin\Debug\Kirtsiye.exe
+C:\Users\Ali\source\repos\Kirtsiye\Kirtsiye\bin\Debug\Kirtsiye.pdb
+C:\Users\Ali\source\repos\Kirtsiye\Kirtsiye\obj\Debug\Kirtsiye.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\Kirtsiye\Kirtsiye\obj\Debug\Kirtsiye.Form1.resources
+C:\Users\Ali\source\repos\Kirtsiye\Kirtsiye\obj\Debug\Kirtsiye.Properties.Resources.resources
+C:\Users\Ali\source\repos\Kirtsiye\Kirtsiye\obj\Debug\Kirtsiye.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Kirtsiye\Kirtsiye\obj\Debug\Kirtsiye.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Kirtsiye\Kirtsiye\obj\Debug\Kirtsiye.exe
+C:\Users\Ali\source\repos\Kirtsiye\Kirtsiye\obj\Debug\Kirtsiye.pdb
+C:\Users\Ali\source\repos\Tasarım Deseni_ödev2_(173311008)\Abstract Factory\Kirtsiye\bin\Debug\Kirtsiye.exe.config
+C:\Users\Ali\source\repos\Tasarım Deseni_ödev2_(173311008)\Abstract Factory\Kirtsiye\bin\Debug\Kirtsiye.exe
+C:\Users\Ali\source\repos\Tasarım Deseni_ödev2_(173311008)\Abstract Factory\Kirtsiye\bin\Debug\Kirtsiye.pdb
+C:\Users\Ali\source\repos\Tasarım Deseni_ödev2_(173311008)\Abstract Factory\Kirtsiye\obj\Debug\Kirtsiye.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\Tasarım Deseni_ödev2_(173311008)\Abstract Factory\Kirtsiye\obj\Debug\Kirtsiye.Form1.resources
+C:\Users\Ali\source\repos\Tasarım Deseni_ödev2_(173311008)\Abstract Factory\Kirtsiye\obj\Debug\Kirtsiye.Properties.Resources.resources
+C:\Users\Ali\source\repos\Tasarım Deseni_ödev2_(173311008)\Abstract Factory\Kirtsiye\obj\Debug\Kirtsiye.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Tasarım Deseni_ödev2_(173311008)\Abstract Factory\Kirtsiye\obj\Debug\Kirtsiye.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Tasarım Deseni_ödev2_(173311008)\Abstract Factory\Kirtsiye\obj\Debug\Kirtsiye.exe
+C:\Users\Ali\source\repos\Tasarım Deseni_ödev2_(173311008)\Abstract Factory\Kirtsiye\obj\Debug\Kirtsiye.pdb

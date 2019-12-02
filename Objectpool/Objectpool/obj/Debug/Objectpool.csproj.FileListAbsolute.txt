@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\Objectpool\Objectpool\bin\Debug\Objectpool.exe.config
+C:\Users\Ali\source\repos\Objectpool\Objectpool\bin\Debug\Objectpool.exe
+C:\Users\Ali\source\repos\Objectpool\Objectpool\bin\Debug\Objectpool.pdb
+C:\Users\Ali\source\repos\Objectpool\Objectpool\obj\Debug\Objectpool.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\Objectpool\Objectpool\obj\Debug\Objectpool.Form1.resources
+C:\Users\Ali\source\repos\Objectpool\Objectpool\obj\Debug\Objectpool.Properties.Resources.resources
+C:\Users\Ali\source\repos\Objectpool\Objectpool\obj\Debug\Objectpool.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Objectpool\Objectpool\obj\Debug\Objectpool.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Objectpool\Objectpool\obj\Debug\Objectpool.exe
+C:\Users\Ali\source\repos\Objectpool\Objectpool\obj\Debug\Objectpool.pdb
