@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\İtaratör_ornek\İtaratör_ornek\obj\Debug\İtaratör_ornek.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\İtaratör_ornek\İtaratör_ornek\obj\Debug\İtaratör_ornek.Form1.resources
+C:\Users\Ali\source\repos\İtaratör_ornek\İtaratör_ornek\obj\Debug\İtaratör_ornek.Properties.Resources.resources
+C:\Users\Ali\source\repos\İtaratör_ornek\İtaratör_ornek\obj\Debug\İtaratör_ornek.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\İtaratör_ornek\İtaratör_ornek\obj\Debug\İtaratör_ornek.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\İtaratör_ornek\İtaratör_ornek\bin\Debug\İtaratör_ornek.exe.config
+C:\Users\Ali\source\repos\İtaratör_ornek\İtaratör_ornek\bin\Debug\İtaratör_ornek.exe
+C:\Users\Ali\source\repos\İtaratör_ornek\İtaratör_ornek\bin\Debug\İtaratör_ornek.pdb
+C:\Users\Ali\source\repos\İtaratör_ornek\İtaratör_ornek\obj\Debug\İtaratör_ornek.exe
+C:\Users\Ali\source\repos\İtaratör_ornek\İtaratör_ornek\obj\Debug\İtaratör_ornek.pdb
