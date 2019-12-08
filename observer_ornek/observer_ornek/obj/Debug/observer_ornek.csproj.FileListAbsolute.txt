@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\observer_ornek\observer_ornek\obj\Debug\observer_ornek.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\observer_ornek\observer_ornek\obj\Debug\observer_ornek.Form1.resources
+C:\Users\Ali\source\repos\observer_ornek\observer_ornek\obj\Debug\observer_ornek.Properties.Resources.resources
+C:\Users\Ali\source\repos\observer_ornek\observer_ornek\obj\Debug\observer_ornek.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\observer_ornek\observer_ornek\obj\Debug\observer_ornek.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\observer_ornek\observer_ornek\bin\Debug\observer_ornek.exe.config
+C:\Users\Ali\source\repos\observer_ornek\observer_ornek\bin\Debug\observer_ornek.exe
+C:\Users\Ali\source\repos\observer_ornek\observer_ornek\bin\Debug\observer_ornek.pdb
+C:\Users\Ali\source\repos\observer_ornek\observer_ornek\obj\Debug\observer_ornek.exe
+C:\Users\Ali\source\repos\observer_ornek\observer_ornek\obj\Debug\observer_ornek.pdb

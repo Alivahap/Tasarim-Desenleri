@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\Mediator_Ornek\Mediator_Ornek\bin\Debug\Mediator_Ornek.exe.config
+C:\Users\Ali\source\repos\Mediator_Ornek\Mediator_Ornek\bin\Debug\Mediator_Ornek.exe
+C:\Users\Ali\source\repos\Mediator_Ornek\Mediator_Ornek\bin\Debug\Mediator_Ornek.pdb
+C:\Users\Ali\source\repos\Mediator_Ornek\Mediator_Ornek\obj\Debug\Mediator_Ornek.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\Mediator_Ornek\Mediator_Ornek\obj\Debug\Mediator_Ornek.Form1.resources
+C:\Users\Ali\source\repos\Mediator_Ornek\Mediator_Ornek\obj\Debug\Mediator_Ornek.Properties.Resources.resources
+C:\Users\Ali\source\repos\Mediator_Ornek\Mediator_Ornek\obj\Debug\Mediator_Ornek.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Mediator_Ornek\Mediator_Ornek\obj\Debug\Mediator_Ornek.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Mediator_Ornek\Mediator_Ornek\obj\Debug\Mediator_Ornek.exe
+C:\Users\Ali\source\repos\Mediator_Ornek\Mediator_Ornek\obj\Debug\Mediator_Ornek.pdb
