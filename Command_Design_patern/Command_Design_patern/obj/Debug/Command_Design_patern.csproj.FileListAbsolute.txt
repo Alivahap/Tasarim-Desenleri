@@ -1,0 +1,7 @@
+C:\Users\Ali\source\repos\Command_Design_patern\Command_Design_patern\bin\Debug\Command_Design_patern.exe.config
+C:\Users\Ali\source\repos\Command_Design_patern\Command_Design_patern\bin\Debug\Command_Design_patern.exe
+C:\Users\Ali\source\repos\Command_Design_patern\Command_Design_patern\bin\Debug\Command_Design_patern.pdb
+C:\Users\Ali\source\repos\Command_Design_patern\Command_Design_patern\obj\Debug\Command_Design_patern.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\Command_Design_patern\Command_Design_patern\obj\Debug\Command_Design_patern.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Command_Design_patern\Command_Design_patern\obj\Debug\Command_Design_patern.exe
+C:\Users\Ali\source\repos\Command_Design_patern\Command_Design_patern\obj\Debug\Command_Design_patern.pdb
